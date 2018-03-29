@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/fps-dimensions.unity
+  isLoaded: 1
+  isActive: 1
